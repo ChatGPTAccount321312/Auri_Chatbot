@@ -1,21 +1,23 @@
-# Auri – English Chatbot
+# Auri – English Next-Token Chatbot
 
-Auri is a lightweight chatbot built in Python, designed for natural and friendly conversations in English.  
-It is simple to set up, easy to adapt, and comes with a clear licence to encourage responsible use.
+Auri is a Python-based chatbot designed as a simple next-token generator.  
+It predicts and generates responses one token at a time, enabling more natural and flexible conversations in English.  
+Auri is lightweight, educational, and easy to extend for experimentation.
 
 ---
 
 ## Features
-- Natural English conversation
-- Easy to run locally with Python
-- Customisable responses and behaviour
-- Lightweight, minimal dependencies
+- Next-token generation for text responses
+- Lightweight Python implementation
+- Customisable behaviour and training data
+- Can be extended for experimentation or learning about language models
 
 ---
 
 ## Requirements
 - Python 3.8 or higher  
 - Recommended: a virtual environment (`venv`)  
+- If external dependencies are required, they should be listed in `requirements.txt`  
 
 ---
 
