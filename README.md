@@ -36,6 +36,7 @@ predicting the next token, one step at a time.
 Auri requires a dataset that is not provided in this respoitory you will have to provide Auri
 with a dataset.
 
+---
 
 ## Installation
 
