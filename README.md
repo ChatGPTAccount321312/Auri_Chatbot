@@ -33,7 +33,8 @@ predicting the next token, one step at a time.
 ---
 
 ## Note
-Auri does not include a dataset. You must provide your own training data (for example, a UTF-8 text file) before training or running the model.
+Auri is **not pretrained** and does not include a dataset. 
+You must provide your own training data (for example, a UTF-8 text file) and train the model before using it.
 
 
 ---
